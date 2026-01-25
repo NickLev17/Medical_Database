@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/top.png</file>
+        <file>images/bottom.png</file>
+        <file>images/cancell.png</file>
+        <file>images/delete.png</file>
+        <file>images/add.png</file>
+        <file>images/remove.png</file>
+        <file>images/medical.png</file>
+        <file>images/cardio.jpg</file>
+        <file>images/cardio_2.jpg</file>
+        <file>images/cardio_3.jpg</file>
+    </qresource>
+</RCC>
